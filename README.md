@@ -21,7 +21,7 @@ This Python script fetches Near-Earth Object (NEO) data from the NASA API and up
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nasa-neo-azure-uploader.git
+   git clone https://github.com/robertusaph/nasa-neo-azure-uploader.git
    cd nasa-neo-azure-uploader
     ```
 
