@@ -39,15 +39,11 @@ This Python script fetches Near-Earth Object (NEO) data from the NASA API and up
 
 To run the script, use the following command:
 
-    ```
     python azure-neo-poc.py <nasa_api_key> <azure_storage_connection_string> <start_date> <container_name>
-    ```
 
 Example:
 
-    ```
     python script_name.py YOUR_NASA_API_KEY YOUR_AZURE_STORAGE_CONNECTION_STRING 2024-08-01 neo-container
-    ```
 
 
 ## Environment Variables
